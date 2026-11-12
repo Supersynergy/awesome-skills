@@ -1,42 +1,146 @@
-# 🧩 Awesome Skills
+# Awesome Skills
 
-A curated starting point for discovering reusable AI agent skills, skill collections, and the open Agent Skills format.
+![Awesome Skills](assets/hero.png)
 
-**[Official sources](#official-sources) · [Collections](#collections) · [Specialized skills](#specialized-skills) · [Discover more](#discover-more)**
+<details>
+<summary><strong>🌍 Languages · Sprachen · 18</strong></summary>
 
-> Skills can contain instructions and executable resources. Review the source, permissions, and license before using one.
+| | |
+| --- | --- |
+| [![](https://flagcdn.com/24x18/gb.png) English](README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](Languages/README.de.md) |
+| [![](https://flagcdn.com/24x18/es.png) Español](Languages/README.es.md) | [![](https://flagcdn.com/24x18/fr.png) Français](Languages/README.fr.md) |
+| [![](https://flagcdn.com/24x18/it.png) Italiano](Languages/README.it.md) | [![](https://flagcdn.com/24x18/pt.png) Português](Languages/README.pt.md) |
+| [![](https://flagcdn.com/24x18/nl.png) Nederlands](Languages/README.nl.md) | [![](https://flagcdn.com/24x18/pl.png) Polski](Languages/README.pl.md) |
+| [![](https://flagcdn.com/24x18/tr.png) Türkçe](Languages/README.tr.md) | [![](https://flagcdn.com/24x18/jp.png) 日本語](Languages/README.ja.md) |
+| [![](https://flagcdn.com/24x18/kr.png) 한국어](Languages/README.ko.md) | [![](https://flagcdn.com/24x18/cn.png) 中文](Languages/README.zh.md) |
+| [![](https://flagcdn.com/24x18/sa.png) العربية](Languages/README.ar.md) | [![](https://flagcdn.com/24x18/in.png) हिन्दी](Languages/README.hi.md) |
+| [![](https://flagcdn.com/24x18/id.png) Bahasa Indonesia](Languages/README.id.md) | [![](https://flagcdn.com/24x18/vn.png) Tiếng Việt](Languages/README.vi.md) |
+| [![](https://flagcdn.com/24x18/ua.png) Українська](Languages/README.uk.md) | [![](https://flagcdn.com/24x18/se.png) Svenska](Languages/README.sv.md) |
 
-## 🏛️ Official sources
+</details>
 
-- **[Agent Skills specification](https://github.com/agentskills/agentskills)** — Open format, specification, and reference documentation.
-- **[Anthropic Skills](https://github.com/anthropics/skills)** — Anthropic's public skills repository, including document workflows.
-- **[OpenAI Skills](https://github.com/openai/skills)** — Catalog of skills for Codex; consult its current README for status and usage.
-- **[Vercel Agent Skills](https://github.com/vercel-labs/agent-skills)** — Official Vercel collection for agent workflows.
-- **[GitHub Awesome Copilot](https://github.com/github/awesome-copilot)** — Community instructions, agents, prompts, and skills for Copilot.
+**28 resources** · [🌐 Awesome Awesome](https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists) · [🧩💬 Companion](https://github.com/Supersynergy/awesome-prompts) · [⭐ GitStars](https://gitstars.io/)
 
-## 🧭 Collections
+**🧭** [🏛️ Official sources](#c-official) · [🧭 Collections](#c-collections) · [🎯 Specialized skills](#c-specialized) · [🛡️ Security](#c-security)
 
-- **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** — Directory of official and community skills across agent tools.
-- **[sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)** — Large collection with a local catalog and selection tools.
-- **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — Claude skills and workflow resources.
-- **[travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)** — Curated collection focused on Claude and Claude Code.
-- **[BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)** — Collection of Claude skill resources.
-- **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)** — Guides, tutorials, and skill directories.
-- **[libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills)** — Agent Skills guide, resources, and tools.
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** — Skills directory for the OpenClaw ecosystem.
-- **[composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills)** — Community collection focused on Codex skills.
+**🔗**
 
-## 🎯 Specialized skills
+```text
+https://github.com/Supersynergy/awesome-skills
+```
 
-- **[gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills)** — Game development skills across multiple engines.
-- **[LLMSecurity/awesome-agent-skills-security](https://github.com/LLMSecurity/awesome-agent-skills-security)** — Resources on attacks, defenses, and evaluation of agent skills.
-- **[joe-shenouda/awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills)** — Security-focused skill resources.
-- **[bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills)** — Design-related skills.
+**🧰** [JSONL](data/sources.jsonl) · [URLs](data/urls.txt)
 
-## 🔎 Discover more
+> Review skill sources, permissions and licenses before use.
 
-- [Awesome Awesome Best of Repo Lists](https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists) — Broader catalog of resource lists and discovery tools.
-- [Awesome Prompts](https://github.com/Supersynergy/awesome-prompts) — Companion collection for prompts and prompt engineering.
-- [gitstars.io](https://gitstars.io/) · [Explore](https://gitstars.io/explore) · [Trending](https://gitstars.io/trending) — Discover repositories using public growth signals.
+<a id="c-official"></a>
+<details open>
+<summary><strong>🏛️ Official sources · 5</strong></summary>
 
-Links and descriptions were checked on 2026-11-12. Refer to each source for its current status, compatibility, and license.
+- **[Agent Skills specification](https://github.com/agentskills/agentskills)**<br>
+  Open format, specification, and reference documentation.
+
+- **[Anthropic Skills](https://github.com/anthropics/skills)**<br>
+  Anthropic's public skills repository, including document workflows.
+
+- **[OpenAI Skills](https://github.com/openai/skills)**<br>
+  Catalog of skills for Codex; consult its current README for status and usage.
+
+- **[Vercel Agent Skills](https://github.com/vercel-labs/agent-skills)**<br>
+  Official Vercel collection for agent workflows.
+
+- **[GitHub Awesome Copilot](https://github.com/github/awesome-copilot)**<br>
+  Community instructions, agents, prompts, and skills for Copilot.
+
+</details>
+
+<a id="c-collections"></a>
+<details open>
+<summary><strong>🧭 Collections · 11</strong></summary>
+
+- **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)**<br>
+  Directory of official and community skills across agent tools.
+
+- **[sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)**<br>
+  Large collection with a local catalog and selection tools.
+
+- **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)**<br>
+  Claude skills and workflow resources.
+
+- **[travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)**<br>
+  Curated collection focused on Claude and Claude Code.
+
+- **[BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)**<br>
+  Collection of Claude skill resources.
+
+- **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)**<br>
+  Guides, tutorials, and skill directories.
+
+- **[libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills)**<br>
+  Agent Skills guide, resources, and tools.
+
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)**<br>
+  Skills directory for the OpenClaw ecosystem.
+
+- **[composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills)**<br>
+  Community collection focused on Codex skills.
+
+- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)**<br>
+  Engineering skills for AI coding agents.
+
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)**<br>
+  Agent skills for context engineering and multi-agent systems.
+
+</details>
+
+<a id="c-specialized"></a>
+<details open>
+<summary><strong>🎯 Specialized skills · 10</strong></summary>
+
+- **[gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills)**<br>
+  Game development skills across multiple engines.
+
+- **[joe-shenouda/awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills)**<br>
+  Security-focused skill resources.
+
+- **[bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills)**<br>
+  Design-related skills.
+
+- **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)**<br>
+  Skills for scientific research workflows.
+
+- **[supabase/agent-skills](https://github.com/supabase/agent-skills)**<br>
+  Skills for Supabase development.
+
+- **[twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills)**<br>
+  Skills for Swift and Apple platform development.
+
+- **[apify/agent-skills](https://github.com/apify/agent-skills)**<br>
+  Apify agent skills.
+
+- **[WordPress/agent-skills](https://github.com/WordPress/agent-skills)**<br>
+  WordPress development skills.
+
+- **[callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills)**<br>
+  React Native development skills.
+
+- **[Kotlin/kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills)**<br>
+  Kotlin development skills.
+
+</details>
+
+<a id="c-security"></a>
+<details open>
+<summary><strong>🛡️ Security · 2</strong></summary>
+
+- **[LLMSecurity/awesome-agent-skills-security](https://github.com/LLMSecurity/awesome-agent-skills-security)**<br>
+  Resources on attacks, defenses, and evaluation of agent skills.
+
+- **[thirtysix/awesome-agent-skills](https://github.com/thirtysix/awesome-agent-skills)**<br>
+  Security-focused skill catalog and offline scan results.
+
+</details>
+
+---
+
+<sub>GitHub repository metadata checked 2026-11-12. Sources may change; consult each project for current status and license.</sub>
