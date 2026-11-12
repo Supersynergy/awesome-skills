@@ -19,9 +19,9 @@
 
 </details>
 
-**28 Ressourcen** · [🌐 Awesome Awesome](https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists) · [🧩💬 Partnerliste](https://github.com/Supersynergy/awesome-prompts) · [⭐ GitStars](https://gitstars.io/)
+**41 Ressourcen** · [🌐 Awesome Awesome](https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists) · [🧩💬 Partnerliste](https://github.com/Supersynergy/awesome-prompts) · [⭐ GitStars](https://gitstars.io/)
 
-**🧭** [🏛️ Offizielle Quellen](#c-official) · [🧭 Sammlungen](#c-collections) · [🎯 Spezialisierte Skills](#c-specialized) · [🛡️ Sicherheit](#c-security)
+**🧭** [🏛️ Offizielle Quellen](#c-official) · [🧭 Sammlungen](#c-collections) · [🎯 Spezialisierte Skills](#c-specialized) · [🛡️ Sicherheit](#c-security) · [📺 Video-Anleitungen](#c-videos)
 
 **🔗**
 
@@ -33,7 +33,7 @@ https://github.com/Supersynergy/awesome-skills
 
 <a id="c-official"></a>
 <details open>
-<summary><strong>🏛️ Offizielle Quellen · 5</strong></summary>
+<summary><strong>🏛️ Offizielle Quellen · 7</strong></summary>
 
 - **[Agent Skills specification](https://github.com/agentskills/agentskills)**<br>
   Offenes Format, Spezifikation und Referenzdokumentation.
@@ -50,11 +50,17 @@ https://github.com/Supersynergy/awesome-skills
 - **[GitHub Awesome Copilot](https://github.com/github/awesome-copilot)**<br>
   Community-Anweisungen, Agenten, Prompts und Skills für Copilot.
 
+- **[microsoft/skills](https://github.com/microsoft/skills)**<br>
+  Skills, MCP-Server und Agentenanweisungen von Microsoft.
+
+- **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)**<br>
+  Offizieller Anthropic-Plugin-Marktplatz für Claude Code.
+
 </details>
 
 <a id="c-collections"></a>
 <details open>
-<summary><strong>🧭 Sammlungen · 11</strong></summary>
+<summary><strong>🧭 Sammlungen · 15</strong></summary>
 
 - **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)**<br>
   Verzeichnis offizieller und gemeinschaftlicher Skills für verschiedene Agenten.
@@ -89,11 +95,23 @@ https://github.com/Supersynergy/awesome-skills
 - **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)**<br>
   Skills für Context Engineering und Multi-Agenten-Systeme.
 
+- **[vercel-labs/skills](https://github.com/vercel-labs/skills)**<br>
+  Kommandozeilenwerkzeug für das offene Agent-Skills-Ökosystem.
+
+- **[wshobson/agents](https://github.com/wshobson/agents)**<br>
+  Plugins, Agenten und Skills für Coding-Werkzeuge.
+
+- **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)**<br>
+  Sammlung von Skills, Agenten und Plugins.
+
+- **[hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins)**<br>
+  Verzeichnis von Codex-Plugins, Skills und Ressourcen.
+
 </details>
 
 <a id="c-specialized"></a>
 <details open>
-<summary><strong>🎯 Spezialisierte Skills · 10</strong></summary>
+<summary><strong>🎯 Spezialisierte Skills · 12</strong></summary>
 
 - **[gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills)**<br>
   Skills für Spieleentwicklung mit verschiedenen Engines.
@@ -125,17 +143,46 @@ https://github.com/Supersynergy/awesome-skills
 - **[Kotlin/kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills)**<br>
   Skills für Kotlin-Entwicklung.
 
+- **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)**<br>
+  Agenten-Skills für Marketing-Workflows.
+
+- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)**<br>
+  Design-Skill für Coding-Agenten.
+
 </details>
 
 <a id="c-security"></a>
 <details open>
-<summary><strong>🛡️ Sicherheit · 2</strong></summary>
+<summary><strong>🛡️ Sicherheit · 4</strong></summary>
 
 - **[LLMSecurity/awesome-agent-skills-security](https://github.com/LLMSecurity/awesome-agent-skills-security)**<br>
   Ressourcen zu Angriffen, Abwehr und Evaluation von Agent-Skills.
 
 - **[thirtysix/awesome-agent-skills](https://github.com/thirtysix/awesome-agent-skills)**<br>
   Sicherheitsorientierter Skill-Katalog mit Offline-Scanergebnissen.
+
+- **[trailofbits/skills](https://github.com/trailofbits/skills)**<br>
+  Skills von Trail of Bits für Sicherheitsanalyse und Tests.
+
+- **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)**<br>
+  Sicherheitsscanner für KI-Agenten-Skills.
+
+</details>
+
+<a id="c-videos"></a>
+<details open>
+<summary><strong>📺 Video-Anleitungen · 3</strong></summary>
+
+> Ausgewählte Videos; keine gemessene Trend-Rangliste.
+
+- **[25 agent skills to improve your workflow in GitHub Copilot](https://www.youtube.com/watch?v=9yPyoxlyc5Q)**<br>
+  GitHub Copilot Day: Matt Pocock stellt Agenten-Skills vor.
+
+- **[Introducing Agent Skills in VS Code](https://www.youtube.com/watch?v=JepVi1tBNEE)**<br>
+  Einführung des Visual-Studio-Code-Teams in Agent Skills.
+
+- **[The complete guide to Agent Skills](https://www.youtube.com/watch?v=fabAI1OKKww)**<br>
+  Burke Holland erklärt Agent Skills.
 
 </details>
 

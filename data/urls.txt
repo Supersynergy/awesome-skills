@@ -26,3 +26,16 @@ https://github.com/WordPress/agent-skills
 https://github.com/callstackincubator/agent-skills
 https://github.com/Kotlin/kotlin-agent-skills
 https://github.com/thirtysix/awesome-agent-skills
+https://github.com/microsoft/skills
+https://github.com/trailofbits/skills
+https://github.com/anthropics/claude-plugins-official
+https://github.com/vercel-labs/skills
+https://github.com/wshobson/agents
+https://github.com/coreyhaines31/marketingskills
+https://github.com/alirezarezvani/claude-skills
+https://github.com/Nutlope/hallmark
+https://github.com/NVIDIA/SkillSpector
+https://github.com/hashgraph-online/awesome-codex-plugins
+https://www.youtube.com/watch?v=9yPyoxlyc5Q
+https://www.youtube.com/watch?v=JepVi1tBNEE
+https://www.youtube.com/watch?v=fabAI1OKKww
