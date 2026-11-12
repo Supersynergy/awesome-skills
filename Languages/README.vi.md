@@ -19,7 +19,7 @@
 
 </details>
 
-**28 resources** · [🌐 Awesome Awesome](https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists) · [🧩💬 Companion](https://github.com/Supersynergy/awesome-prompts) · [⭐ GitStars](https://gitstars.io/)
+**28 tài nguyên** · [🌐 Awesome Awesome](https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists) · [🧩💬 Danh sách liên quan](https://github.com/Supersynergy/awesome-prompts) · [⭐ GitStars](https://gitstars.io/)
 
 > Mô tả nguồn được viết bằng tiếng Anh.
 
@@ -143,4 +143,4 @@ https://github.com/Supersynergy/awesome-skills
 
 ---
 
-<sub>GitHub repository metadata checked 2026-11-12. Sources may change; consult each project for current status and license.</sub>
+<sub>Dữ liệu GitHub được kiểm tra ngày 12-11-2026. Xem trạng thái và giấy phép hiện tại tại từng dự án.</sub>

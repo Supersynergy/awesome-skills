@@ -19,7 +19,7 @@
 
 </details>
 
-**28 resources** · [🌐 Awesome Awesome](https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists) · [🧩💬 Companion](https://github.com/Supersynergy/awesome-prompts) · [⭐ GitStars](https://gitstars.io/)
+**28 संसाधन** · [🌐 Awesome Awesome](https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists) · [🧩💬 संबंधित सूची](https://github.com/Supersynergy/awesome-prompts) · [⭐ GitStars](https://gitstars.io/)
 
 > स्रोतों के विवरण अंग्रेज़ी में हैं।
 
@@ -143,4 +143,4 @@ https://github.com/Supersynergy/awesome-skills
 
 ---
 
-<sub>GitHub repository metadata checked 2026-11-12. Sources may change; consult each project for current status and license.</sub>
+<sub>GitHub जानकारी 12-11-2026 को जाँची गई। वर्तमान स्थिति और लाइसेंस के लिए संबंधित प्रोजेक्ट देखें।</sub>
